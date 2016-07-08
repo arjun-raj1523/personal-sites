@@ -43,6 +43,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Anurag Banerjee http://anuragbanerjee.me
 - Ari VanIderstine http://ariari.io
 - Arjun Bhatnagar http://arjunb.com
+- Arjun Rajagopalan http://www.arjunraj.net
 - Arjun Sarode http://asarode.github.io/
 - Arnaud Schenk http://arnaudschenk.me
 - Arush Shankar http://arush.me
